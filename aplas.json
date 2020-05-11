@@ -9,14 +9,13 @@
       "description": "Re-engineered coherent knowledge user",
       "categoryId": "core",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "22",
       "vendor_phone": "+86 670 725 3910",
       "status_color": "#00FF00",
       "department": "Research and Development",
       "hostedtype": "OnPremise",
       "deployment_date": "19/8/10",
-      "investment_number": "270",
+      "investment_number": 270,
       "type": "OffShelf",
       "sme_email": "Jerad.Gloucester@memento.net.au",
       "investment_24m": "650",
@@ -25,11 +24,11 @@
       "support_cost": "358",
       "vendor_contact_name": "Wenda Nibley",
       "end_of_life": "19/6/20",
-      "months_to_renew_support": "8",
+      "months_to_renew_support": 8,
       "end_of_maintenance": "29/8/17",
       "integrations": [
         {
-          "assetId": "int-038",
+          "id": "int-038",
           "name": "INT-038",
           "shortName": null,
           "version": "7.01",
@@ -37,7 +36,6 @@
           "payload": "Display - SPL",
           "targetApplicationId": "latlux",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "19/8/08"
         },
         {
-          "assetId": "int-020",
+          "id": "int-020",
           "name": "INT-020",
           "shortName": null,
           "version": "4.23",
@@ -58,7 +56,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "quo_lux",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "decom_date": "21/12/12",
           "status_color": "#FF0000",
@@ -72,7 +69,7 @@
           "golive_date": "24/9/12"
         },
         {
-          "assetId": "int-088",
+          "id": "int-088",
           "name": "INT-088",
           "shortName": null,
           "version": "0.12",
@@ -80,7 +77,6 @@
           "payload": "Purchase Order",
           "targetApplicationId": "event_agile",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -93,7 +89,7 @@
           "golive_date": "18/9/13"
         },
         {
-          "assetId": "int-007",
+          "id": "int-007",
           "name": "INT-007",
           "shortName": null,
           "version": "0.68",
@@ -101,7 +97,6 @@
           "payload": "Design Source Essential Item Label Designation",
           "targetApplicationId": "touchpoint",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -114,7 +109,7 @@
           "golive_date": "22/12/03"
         },
         {
-          "assetId": "int-411",
+          "id": "int-411",
           "name": "INT-411",
           "shortName": null,
           "version": "0.4.7",
@@ -122,7 +117,6 @@
           "payload": "Item Barcode (XREF) Master Data",
           "targetApplicationId": "matsoft",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
